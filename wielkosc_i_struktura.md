@@ -7,8 +7,9 @@
 
 ######Z powyższej definicji Wszechświata wynika, że nic nie może istnieć poza nim. Istnieją jednak alternatywne definicje, dopuszczające że nasz „wszechświat” jest jednym z wielu „wszechświatów”, których zbiór określa się jako wieloświat. Przykładowo teoria chaotycznej inflacji dopuszcza istnienie nieskończenie wielu wszechświatów różniących się obowiązującymi w nich stałymi fizycznymi. Wieloświatowa interpretacja mechaniki kwantowej mówi natomiast, że każdy pomiar kwantowego układu w superpozycji powoduje powstanie osobnego wszechświata dla każdego wyniku pomiaru. Ponieważ z definicji takie wszechświaty są rozłączne z naszym, tych spekulacji nie da się przetestować eksperymentalnie.
 ====
-
-
+![zdiecie1}(http://static.polskieradio.pl/files/59917c19-9fe1-4a9e-8451-c6868c11008c.file)
+Najnowsza trójwymiarowa mapa Wszechświata (2MASS).
+=
 ![zdieci](http://www.sp12.miasto.zgierz.pl/unia-2/kosmos/images/511145578.jpg)
 
 ### Współczesna wiedza kosmologiczna nie pozwala jednoznacznie określić wielkości całego Wszechświata, nie jest także znany kształt Wszechświata.
