@@ -1,5 +1,4 @@
-![zdieci](http://www.google.pl/url?sa=i&source=images&cd=&cad=rja&uact=8&docid=uIko4G8K-Q0HbM&tbnid=nCfeuSY91e6wTM:&ved=0CAgQjRw&url=http%3A%2F%2Fwww.sp12.miasto.zgierz.pl%2Funia-2%2Fkosmos%2Fwrzechswiat.html&ei=B9BsU5WuO-Su7AaZxYHoBA&psig=AFQjCNEMGLqwn3MQhTq3tKJkeUpqTmEt4g&ust=1399726472184830)
-
+![zdieci](http://www.sp12.miasto.zgierz.pl/unia-2/kosmos/images/511145578.jpg)
 
 Współczesna wiedza kosmologiczna nie pozwala jednoznacznie określić wielkości całego Wszechświata, nie jest także znany kształt Wszechświata.
 
