@@ -1,6 +1,6 @@
 ![zdieci](http://www.sp12.miasto.zgierz.pl/unia-2/kosmos/images/511145578.jpg)
 
-Współczesna wiedza kosmologiczna nie pozwala jednoznacznie określić wielkości całego Wszechświata, nie jest także znany kształt Wszechświata.
+#### Współczesna wiedza kosmologiczna nie pozwala jednoznacznie określić wielkości całego Wszechświata, nie jest także znany kształt Wszechświata.
 
 Według współczesnych teorii Wszechświat może być płaski lub zakrzywiony. Większość naukowców przyjmuje, że Wszechświat jest płaski, ale na ten temat istnieje wiele różnorakich teorii[5]. Nieznane są także rozmiary Wszechświata, możliwe, że są nieskończone. Badacze podają dolne ograniczenie wynikające z ekstrapolacji oddalania się od Drogi Mlecznej najdalszych obserwowanych obiektów. Wynika z niego, że widzialny Wszechświat ma średnicę około 93 miliardów lat świetlnych[2].
 
