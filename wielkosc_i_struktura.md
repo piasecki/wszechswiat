@@ -10,10 +10,12 @@
 ![zdiecie1](http://static.polskieradio.pl/files/59917c19-9fe1-4a9e-8451-c6868c11008c.file)
 ######Najnowsza trójwymiarowa mapa Wszechświata.
 =
-![zdieci](http://www.sp12.miasto.zgierz.pl/unia-2/kosmos/images/511145578.jpg)
+
 
 ### Współczesna wiedza kosmologiczna nie pozwala jednoznacznie określić wielkości całego Wszechświata, nie jest także znany kształt Wszechświata.
 =====
+![zdieci](http://www.sp12.miasto.zgierz.pl/unia-2/kosmos/images/511145578.jpg)
+
 ##### Według współczesnych teorii Wszechświat może być płaski lub zakrzywiony. Większość naukowców przyjmuje, że Wszechświat jest płaski, ale na ten temat istnieje wiele różnorakich teorii. Nieznane są także rozmiary Wszechświata, możliwe, że są nieskończone. Badacze podają dolne ograniczenie wynikające z ekstrapolacji oddalania się od Drogi Mlecznej najdalszych obserwowanych obiektów. Wynika z niego, że widzialny Wszechświat ma średnicę około 93 miliardów lat świetlnych.
 =====
 ##### W skalach powyżej 300 milionów lat świetlnych obserwowalna materia jest rozłożona równomiernie w przestrzeni. W mniejszych skalach materia skupiona jest w hierarchiczną strukturę: atomy formują gwiazdy, gwiazdy skupiają się w galaktyki, galaktyki skupiają się w gromady i supergromady, a supergromady układają się w włókna rozdzielone pustkami. Obserwowalna materia jest również rozłożona izotropowo, co oznacza, że w każdym kierunku jest jej mniej więcej taka sama ilość. Wszechświat wypełnia dodatkowo bardzo równomierne mikrofalowe promieniowanie odpowiadające równowadze termicznej ciała doskonale czarnego o temperaturze 2,7249–2,7252 K.
