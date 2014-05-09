@@ -1,3 +1,8 @@
+__Wszechświat__  wszystko, co fizycznie istnieje: cała przestrzeń, czas, wszystkie formy materii i energii oraz prawa fizyki i stałe fizyczne określające ich zachowanie. Słowo „wszechświat” może być też używane w innych kontekstach jako synonim słów „kosmos” (w rozumieniu filozofii), „świat” czy „natura”. W naukach ścisłych słowa „wszechświat” i „kosmos” są równoważne.
+
+Według powszechnie przyjętych teorii potwierdzonych przez różne dane obserwacyjne wiek Wszechświata wynosi 13,82 miliardów lat[1]. Średnica widzialnego wszechświata to około 93 miliardy lat świetlnych, czyli 8,8×1026 metrów[2][a]. Zgodnie ze współczesną wiedzą Wszechświat powstał z osobliwości (punktu, w którym była skupiona cała jego materia i energia) w Wielkim Wybuchu. Od tego momentu Wszechświat powiększył się do obecnej postaci, prawdopodobnie przechodząc przez krótki okres kosmologicznej inflacji, która spowodowała, że jego gęstość jest równa gęstości krytycznej[3][4]. Wielki Wybuch i ekspansja Wszechświata zostały potwierdzone przez różne niezależne obserwacje. Odkryto także, że ekspansja Wszechświata przyspiesza, oraz że większość materii i energii Wszechświata ma całkowicie inną postać niż to, co bezpośrednio obserwujemy (patrz: ciemna materia i ciemna energia).
+
+
 ![zdieci](http://www.sp12.miasto.zgierz.pl/unia-2/kosmos/images/511145578.jpg)
 
 ### Współczesna wiedza kosmologiczna nie pozwala jednoznacznie określić wielkości całego Wszechświata, nie jest także znany kształt Wszechświata.
