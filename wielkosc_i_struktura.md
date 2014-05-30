@@ -22,3 +22,5 @@
 =====
 ##### Obecna średnia gęstość Wszechświata wynosi około 9,9×10−30 gramów na centymetr sześcienny. Energia we Wszechświecie istnieje w większości w postaci ciemnej energii (68,3%) i hipotetycznej ciemnej materii (26,8%). Jedynie 4,9% to materia barionowa, którą jesteśmy w stanie bezpośrednio obserwować. Gęstość atomów we Wszechświecie wynosi średnio jeden atom wodoru na cztery metry sześcienne. Właściwości ciemnej materii i ciemnej energii są w dużym stopniu nieznane. Wiadomo że ciemna materia oddziałuje grawitacyjnie tak jak zwykła materia, spowalniając ekspansję Wszechświata, natomiast ciemna energia przyspiesza tę ekspansję.
 =====
+##### Planety naszego układu słonecznego 
+![Zdiecie2](http://upload.wikimedia.org/wikipedia/commons/a/a9/Planety2008.jpg)
